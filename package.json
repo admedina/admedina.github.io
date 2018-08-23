@@ -1,0 +1,27 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "A website to have fun trying new things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admedina/admedina.github.io.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-router",
+    "javascript",
+    "fun",
+    "anyone"
+  ],
+  "author": "Aaron Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/admedina/admedina.github.io/issues"
+  },
+  "homepage": "https://github.com/admedina/admedina.github.io#readme"
+}
